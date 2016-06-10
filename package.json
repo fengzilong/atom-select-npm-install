@@ -1,0 +1,19 @@
+{
+  "name": "atom-select-npm-install",
+  "main": "./lib/atom-select-npm-install",
+  "version": "0.0.0",
+  "description": "atom-select-npm-install",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-select-npm-install",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-selected-requires": "^1.1.2",
+    "jquery": "^3.0.0",
+    "pkg-conf": "^1.1.3",
+    "relative-require-regex": "^1.0.1",
+    "resolve": "^1.1.7"
+  }
+}
