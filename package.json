@@ -1,7 +1,7 @@
 {
   "name": "atom-select-npm-install",
   "main": "./lib/atom-select-npm-install",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "atom-select-npm-install",
   "keywords": [],
   "repository": "https://github.com/fengzilong/atom-select-npm-install",
