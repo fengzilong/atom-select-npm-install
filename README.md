@@ -2,5 +2,4 @@
 
 :package: remind you to install uninstalled modules within your selection
 
-## Screenshot
-![](https://github.com/fengzilong/atom-select-npm-install/blob/master/screenshot.png?raw=true)
+<img src="https://github.com/fengzilong/atom-select-npm-install/blob/master/screenshot.png?raw=true" alt="Screenshot" width="500">
