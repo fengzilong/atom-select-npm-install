@@ -1,7 +1,7 @@
 {
   "name": "atom-select-npm-install",
   "main": "./lib/atom-select-npm-install",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "install npm packages from popup in atom",
   "keywords": [
     "npm",
@@ -31,6 +31,5 @@
     "which": "^1.2.10",
     "execa": "^0.5.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
